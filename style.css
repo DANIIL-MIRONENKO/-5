@@ -1,5 +1,6 @@
 h1 {
-  text-align: center
+  text-align: center 
+   border: 15px solid black;
 }
 
 p {
