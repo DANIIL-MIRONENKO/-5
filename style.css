@@ -1,3 +1,11 @@
 h1{ 
     border: 15px solid black;
+} 
+
+body{ 
+    font-family:sans-serif; background-color:green; color:white;
+} 
+
+img{
+    height: 200px;
 }
